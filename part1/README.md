@@ -1,11 +1,11 @@
-# �z��️⚠️⚠️HBnB - Technical Documentation
+#HBnB - Technical Documentation
 
 ## Introduction
     This documentation provides a detailed technical blueprint for the HBnB application.
     It covers the high-level architecture, the detailed business logic models, and the sequence of interactions for key API calls.
     This document serves as a guide for the implementation phase to ensure a robust and scalable system.
 
-## ‼️‼️‼️TASK 0. High-Level Package Diagram
+## TASK 0. High-Level Package Diagram
 
   ### Overview
     This document describes the high-level architecture of the HBnB application.
@@ -100,7 +100,7 @@ classDiagram
 ```
 ---
 ---
-## ‼️‼️‼️TASK 1. Detailed Class Diagram for Business Logic Layer
+## TASK 1. Detailed Class Diagram for Business Logic Layer
   ## Overview
     This document describes the Business Logic Layer for the HBnB application.
     It shows the main objects (classes), their data (attributes), and how they work together (relationships).
@@ -183,7 +183,7 @@ classDiagram
 ```
 ---
 ---
-## ‼️‼️‼️Task 2. Sequence Diagrams for API Calls
+##  Task 2. Sequence Diagrams for API Calls
   ## Overview
     This document shows how the HBnB application handles main user requests.
     It shows the communication between the User, API, Business Logic,
